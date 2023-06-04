@@ -1,4 +1,4 @@
-# Frequentl Asked Question
+# Frequently Asked Question
 
 So, as mentioned in earlier repos this is from the continuation of my learning of Javascript DOM.
 This time I tried making a FAQ page which is the most common section on any website.
